@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-For grading purposes online
+#Welcome, fellow student!
